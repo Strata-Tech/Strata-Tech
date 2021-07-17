@@ -1,10 +1,10 @@
 ### Hi , I'm Vincent  👋 
 
 
-## I'm a passionate Data Science , A.I. enthusiast based in Singapore 🇸🇬. This is the place where I open source stuff and make things happen. I am currently working on something cool!
+## I'm passionate about Data Science , A.I. and Machine Learning.I am based in Singapore 🇸🇬. This is the place where I open source stuff and make things happen. I am currently working on something cool!
 
-- 🌱 I’m currently learning and relearning everything 🤖 
-- 👯 I’m looking to solve various business problems.
+- 🌱 I’m currently learning and relearning everything everyday! 🤖 
+- 👯 I’m looking to solve various business problems and implement automation initiatives.
 
 
 <h3 align="left">Connect with me:</h3>
