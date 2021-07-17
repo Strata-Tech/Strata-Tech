@@ -1,7 +1,7 @@
-### Hi , I'm Vincent  👋 from 🇸🇬
+### Hi , I'm Vincent  👋 
 
 
-## I'm a passionate Data Science , A.I. enthusiast living in Singapore 🇸🇬. This is the place where I open source stuff and break things. I am currently working on something cool!
+## I'm a passionate Data Science , A.I. enthusiast based in Singapore 🇸🇬. This is the place where I open source stuff and make things happen. I am currently working on something cool!
 
 - 🌱 I’m currently learning and relearning everything 🤖 
 - 👯 I’m looking to solve various business problems.
