@@ -7,6 +7,9 @@
 - 👯 I’m looking to solve various business problems and implement automation initiatives.
 
 
+<h3 align="left">My Portfolio ⚙️:</h3>
+https://strata-tech.github.io/Strata_Tech.github.io/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vincent-foo-52b95032/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent foo" height="30" width="40" /></a>
